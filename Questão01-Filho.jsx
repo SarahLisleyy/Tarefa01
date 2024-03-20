@@ -16,9 +16,6 @@ const Filho = ({altura, peso}) => {
     return(
         <div>
             <h2>Mensagem do pai: {getMessage(imc)}</h2>
-            <button>
-                Enviar mensagem para o pai
-            </button>
         </div>
     )
 }
