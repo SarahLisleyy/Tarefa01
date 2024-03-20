@@ -1,21 +1,18 @@
 import React from "react";
 import Filho from "./components/atividade01/questão01/Filho";
 import Pai from "./components/atividade01/questão01/Pai";
-/*
-function App() {
+import {PlacaMae, Memoria, PlacaDeVideo} from "./components/atividade01/MeuPc";
+import {Arena, World} from "./components/atividade01/Batalha";
+
+/*function App() {
   return (
     <div>
-        <h1>Desenvolvimento para WEB!</h1>
+        <h2>Desenvolvimento para WEB!</h2>
         <Filho/>
-        <Pai/>
     </div>
   );
 }
- */
-
-import {PlacaMae, Memoria, PlacaDeVideo} from "./components/atividade01/MeuPc";
-
-import {Arena, World} from "./components/atividade01/Batalha";
+*/
 
 function App() {
   return (
